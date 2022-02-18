@@ -1882,11 +1882,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\YStoyanov\\Documents\\SoftUni-CarShop-WebApp\\CarShop\\CarShop\\CarShop.csproj",
+      "projectUniqueName": "C:\\Users\\YStoyanov\\Documents\\SoftUni-CarShop-WebApp\\CarShop\\SoftUni-CarShop-WebApp\\CarShop\\CarShop.csproj",
       "projectName": "CarShop",
-      "projectPath": "C:\\Users\\YStoyanov\\Documents\\SoftUni-CarShop-WebApp\\CarShop\\CarShop\\CarShop.csproj",
+      "projectPath": "C:\\Users\\YStoyanov\\Documents\\SoftUni-CarShop-WebApp\\CarShop\\SoftUni-CarShop-WebApp\\CarShop\\CarShop.csproj",
       "packagesPath": "C:\\Users\\YStoyanov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\YStoyanov\\Documents\\SoftUni-CarShop-WebApp\\CarShop\\CarShop\\obj\\",
+      "outputPath": "C:\\Users\\YStoyanov\\Documents\\SoftUni-CarShop-WebApp\\CarShop\\SoftUni-CarShop-WebApp\\CarShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1906,8 +1906,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\YStoyanov\\Documents\\SoftUni-CarShop-WebApp\\CarShop\\BasicWebServer.Server\\BasicWebServer.Server.csproj": {
-              "projectPath": "C:\\Users\\YStoyanov\\Documents\\SoftUni-CarShop-WebApp\\CarShop\\BasicWebServer.Server\\BasicWebServer.Server.csproj"
+            "C:\\Users\\YStoyanov\\Documents\\SoftUni-CarShop-WebApp\\CarShop\\SoftUni-CarShop-WebApp\\BasicWebServer.Server\\BasicWebServer.Server.csproj": {
+              "projectPath": "C:\\Users\\YStoyanov\\Documents\\SoftUni-CarShop-WebApp\\CarShop\\SoftUni-CarShop-WebApp\\BasicWebServer.Server\\BasicWebServer.Server.csproj"
             }
           }
         }

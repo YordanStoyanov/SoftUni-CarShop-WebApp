@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FDH055fuFl/z5sC6TJx4CnTWVNHtY174uxI8Ouydf2gHV4LRoZTT2wGsaF1BsSut1kfCAOjwsI1g1TOyMgOSSw==",
+  "dgSpecHash": "zk7Ju9pLb2x5ozWd4BdhdYIYRQF6A2IeUb1CKZ7SW71eauXQkR75Bu6JNVUi3AyDJ/bsKbViATdb68AG00zhiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\YStoyanov\\Documents\\SoftUni-CarShop-WebApp\\CarShop\\CarShop\\CarShop.csproj",
+  "projectFilePath": "C:\\Users\\YStoyanov\\Documents\\SoftUni-CarShop-WebApp\\CarShop\\SoftUni-CarShop-WebApp\\CarShop\\CarShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\YStoyanov\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

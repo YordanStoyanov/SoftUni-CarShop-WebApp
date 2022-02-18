@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\YStoyanov\\Documents\\SoftUni-CarShop-WebApp\\CarShop\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
+      "projectUniqueName": "C:\\Users\\YStoyanov\\Documents\\SoftUni-CarShop-WebApp\\CarShop\\SoftUni-CarShop-WebApp\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
       "projectName": "BasicWebServer.Server",
-      "projectPath": "C:\\Users\\YStoyanov\\Documents\\SoftUni-CarShop-WebApp\\CarShop\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
+      "projectPath": "C:\\Users\\YStoyanov\\Documents\\SoftUni-CarShop-WebApp\\CarShop\\SoftUni-CarShop-WebApp\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
       "packagesPath": "C:\\Users\\YStoyanov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\YStoyanov\\Documents\\SoftUni-CarShop-WebApp\\CarShop\\BasicWebServer.Server\\obj\\",
+      "outputPath": "C:\\Users\\YStoyanov\\Documents\\SoftUni-CarShop-WebApp\\CarShop\\SoftUni-CarShop-WebApp\\BasicWebServer.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

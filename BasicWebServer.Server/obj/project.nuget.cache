@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nn/wnpM0bEJSRE7FDQkvXPWqf8AzyeB+5YwRyuPJsmnBfNsy0PPJhXE95Rvc9dV2yfow8gVkaNeoG5W74smblg==",
+  "dgSpecHash": "MHq/F5QLYS7KijDX5NYhwpB7ioENEBxWr5Mw3qFMMAJohqmewmHuVI/qZ38vnXjOM8EXL4zvnxg4M6Hc3zX4Yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\YStoyanov\\Documents\\SoftUni-CarShop-WebApp\\CarShop\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
+  "projectFilePath": "C:\\Users\\YStoyanov\\Documents\\SoftUni-CarShop-WebApp\\CarShop\\SoftUni-CarShop-WebApp\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
