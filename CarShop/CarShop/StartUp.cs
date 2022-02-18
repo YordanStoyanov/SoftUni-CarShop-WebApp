@@ -10,7 +10,7 @@
         {
             var server = new HttpServer(routes => routes
                .MapControllers()
-               .MapStaticFiles());
+               .MapStaticFiles()); 
 
             /*
             server.ServiceCollection
